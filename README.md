@@ -18,3 +18,4 @@ ant run
 Use `ant -p` to list all build options
 
 #### Example Render
+<img src='https://github.com/Positivedelta/Java-Burning-Ship-Fractal/blob/1ebd1f0f160291414ee0fb66398deb391b5f85c1/burning-ship.png'>
