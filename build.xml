@@ -1,5 +1,5 @@
 <project name="Burning Ship" default="jar" basedir=".">
-    <description>Genetic Snake AI</description>
+    <description>Burning Ship</description>
 
     <property environment="env"/>
     <property name="src" location="src"/>
